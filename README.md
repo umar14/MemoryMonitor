@@ -2,8 +2,6 @@
 
 A lightweight Windows 10 system tray tool that displays real-time RAM usage as a number in the taskbar. No installation required.
 
-![Tray Example](https://i.imgur.com/placeholder.png)
-
 ## Features
 
 - Displays RAM usage % live in the system tray
@@ -25,7 +23,7 @@ A lightweight Windows 10 system tray tool that displays real-time RAM usage as a
 3. Run the produced `MemoryMonitor.exe`
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MemoryMonitor.git
+git clone https://github.com/umar14/MemoryMonitor.git
 cd MemoryMonitor
 build.bat
 ```
